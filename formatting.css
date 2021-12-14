@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    font-family: 'Cambria';
+}
+
+a:link, a:visited {
+    background-color: gray;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover, a:active {
+    background-color: rgb(110, 110, 110);
+  }
+
+p {
+    text-align: center;
+}
